@@ -26,7 +26,7 @@ export default {
                 mode: 'cors',
                 headers: {
                     "Content-Type": "application/json",
-                    "X-API-KEY": "YOUR UNIQUE API KEY"
+                    "X-API-KEY": "BQY2E5ylrX7q8Hwo7xhtoB0Id4XxES6I"
                 }
             }
         ); 
@@ -74,7 +74,7 @@ export default {
                 mode: 'cors',
                 headers: {
                     "Content-Type": "application/json",
-                    "X-API-KEY": "YOUR UNIQUE API KEY"
+                    "X-API-KEY": "BQY2E5ylrX7q8Hwo7xhtoB0Id4XxES6I"
                 }
             })
            
